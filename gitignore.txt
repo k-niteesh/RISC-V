@@ -1,0 +1,20 @@
+.env
+xpacks
+*.log
+
+# mem_generator
+*.elf
+*.bin
+*.hex
+*.dis
+
+# simulation
+xsim.dir/
+*.pb
+*.jou
+*.wdb
+*.vcd
+dfx_runtime.txt
+
+# Vivado
+fpga/build
